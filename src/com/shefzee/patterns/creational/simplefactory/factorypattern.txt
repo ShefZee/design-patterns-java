@@ -1,0 +1,4 @@
+It is a creational design pattern which talks about the creation of an object.
+The factory design pattern says that define an interface ( A java interface or an abstract class)
+ and let the subclasses decide which object to instantiate.
+ The factory method in the interface lets a class defer the instantiation to one or more concrete subclasses.
